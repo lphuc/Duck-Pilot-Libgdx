@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">301385190206</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.phucle.dupi</string>
+    <!-- achievement Hello World -->
+    <string name="achievement_hello_world" translatable="false">CgkIvpbU3-IIEAIQAQ</string>
+    <!-- leaderboard World Top -->
+    <string name="leaderboard_world_top" translatable="false">CgkIvpbU3-IIEAIQAA</string>
+</resources>

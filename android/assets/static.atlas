@@ -1,0 +1,222 @@
+
+static.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_over
+  rotate: false
+  xy: 2, 582
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+bike
+  rotate: false
+  xy: 1315, 759
+  size: 74, 135
+  orig: 74, 135
+  offset: 0, 0
+  index: -1
+btn_life
+  rotate: false
+  xy: 1391, 797
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+btn_menu_text
+  rotate: false
+  xy: 1315, 1241
+  size: 287, 70
+  orig: 287, 70
+  offset: 0, 0
+  index: -1
+btn_play_text
+  rotate: false
+  xy: 1850, 1914
+  size: 154, 50
+  orig: 154, 50
+  offset: 0, 0
+  index: -1
+btn_rank_text
+  rotate: false
+  xy: 1850, 1858
+  size: 133, 54
+  orig: 133, 54
+  offset: 0, 0
+  index: -1
+btn_rate_text
+  rotate: false
+  xy: 1315, 1313
+  size: 324, 70
+  orig: 324, 70
+  offset: 0, 0
+  index: -1
+btn_sign_in_text
+  rotate: false
+  xy: 1850, 1966
+  size: 172, 58
+  orig: 172, 58
+  offset: 0, 0
+  index: -1
+btn_sign_out_text
+  rotate: false
+  xy: 1315, 896
+  size: 222, 58
+  orig: 222, 58
+  offset: 0, 0
+  index: -1
+btn_try_again_text
+  rotate: false
+  xy: 1315, 1169
+  size: 287, 70
+  orig: 287, 70
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1315, 956
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 1315, 1058
+  size: 220, 109
+  orig: 220, 109
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 1315, 1385
+  size: 280, 135
+  orig: 280, 135
+  offset: 0, 0
+  index: -1
+cloudfar1
+  rotate: false
+  xy: 1722, 1722
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+cloudfar2
+  rotate: false
+  xy: 1391, 747
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+coin_package
+  rotate: false
+  xy: 1537, 1100
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+land
+  rotate: false
+  xy: 1603, 1737
+  size: 117, 35
+  orig: 117, 35
+  offset: 0, 0
+  index: -1
+life_off
+  rotate: false
+  xy: 1284, 746
+  size: 29, 500
+  orig: 29, 500
+  offset: 0, 0
+  index: -1
+life_on
+  rotate: false
+  xy: 1284, 1248
+  size: 29, 500
+  orig: 29, 500
+  offset: 0, 0
+  index: -1
+main_bg
+  rotate: false
+  xy: 2, 1304
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+moutain_left
+  rotate: false
+  xy: 2, 84
+  size: 1280, 242
+  orig: 1280, 242
+  offset: 0, 0
+  index: -1
+moutain_right
+  rotate: false
+  xy: 2, 328
+  size: 1280, 252
+  orig: 1280, 252
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 1604, 1279
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 1315, 1522
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 2
+  size: 1280, 80
+  orig: 1280, 80
+  offset: 0, 0
+  index: -1
+shark
+  rotate: false
+  xy: 1284, 1750
+  size: 317, 274
+  orig: 317, 274
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 1603, 1774
+  size: 245, 250
+  orig: 245, 250
+  offset: 0, 0
+  index: -1
+window-1-close-button
+  rotate: false
+  xy: 1850, 1776
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+
+static2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menu_bg
+  rotate: false
+  xy: 2, 524
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+window_video
+  rotate: false
+  xy: 2, 2
+  size: 784, 520
+  orig: 784, 520
+  offset: 0, 0
+  index: -1
